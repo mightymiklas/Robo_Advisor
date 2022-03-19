@@ -35,11 +35,16 @@ Please download the entire application folder to run the program properly.
 ## Usage
 
 Initial Testing:
-![Initial Testing](https://i.imgur.com/hQF1Lsa.mp4)
+
+https://user-images.githubusercontent.com/94579605/159133077-c48882db-c342-4d2d-803a-97068044b5e7.mov
+
 
 
 Lambda Implementation:
-https://i.imgur.com/7ApDS5p.mp4
+
+https://user-images.githubusercontent.com/94579605/159133087-74e2f429-aa7d-46a5-986c-29eda9cff533.mov
+
+
 
 
 ---
