@@ -35,7 +35,7 @@ Please download the entire application folder to run the program properly.
 ## Usage
 
 Initial Testing:
-https://i.imgur.com/hQF1Lsa.mp4
+![Initial Testing](https://i.imgur.com/hQF1Lsa.mp4)
 
 
 Lambda Implementation:
