@@ -1,7 +1,7 @@
 # Robo_Advisor
 UW FINTECH 2021-22 MODULE XV Challenge
 
--This application's intent is to utilize Natural Language Processing(NLP) to inform potential clients about their investment options via RoboAdvisor powered by AWS Lambda.
+-This application's intent is to utilize Natural Language Processing(NLP) to inform potential clients about their investment options via RoboAdvisor powered by AWS Lambda utilizing Amazon Lex.
 
 ## Technologies
 -requirements
