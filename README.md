@@ -1,6 +1,3 @@
-# Robo_Advisor
-UW FINTECH 2021-22 MODULE XV Challenge
-
 -This application's intent is to utilize Natural Language Processing(NLP) to inform potential clients about their investment options via RoboAdvisor powered by AWS Lambda utilizing Amazon Lex.
 
 ## Technologies
@@ -21,17 +18,6 @@ Miklas, Christopher.
 
 ---
 
-## License
-
-GNU License
-
----
-
-## Installation Guide
-
-Please download the entire application folder to run the program properly.
-
-
 ## Usage
 
 Initial Testing:
@@ -39,12 +25,9 @@ Initial Testing:
 https://user-images.githubusercontent.com/94579605/159133077-c48882db-c342-4d2d-803a-97068044b5e7.mov
 
 
-
 Lambda Implementation:
 
 https://user-images.githubusercontent.com/94579605/159133087-74e2f429-aa7d-46a5-986c-29eda9cff533.mov
-
-
 
 
 ---
@@ -57,4 +40,4 @@ Christopher Miklas
 
 ## License
 
-Open sourced
+GNU
